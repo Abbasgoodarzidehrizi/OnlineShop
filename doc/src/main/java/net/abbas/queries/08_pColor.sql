@@ -1,4 +1,4 @@
-INSERT INTO `product_products,` (product_id, product_id) VALUES
+INSERT INTO product_colors (product_id, color_id) VALUES
                                                      (66, 23),   -- Mens 624, Black
                                                      (66, 24),   -- Mens 624, Blue
                                                      (66, 1),    -- Mens 624, Red
